@@ -1,0 +1,6 @@
+@APIFINALMOBILE_HostAddress = http://localhost:5237
+
+GET {{APIFINALMOBILE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
